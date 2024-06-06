@@ -1,0 +1,19 @@
+{
+  "3095953": [
+    {
+      "timestamp_log": 1717716330905,
+      "type": "allocation",
+      "id": 65437457,
+      "provider": 2948413,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020d8336ceb495f7755184f7a1b3f7025fd6a9904815699600f25d8df2e25eea30a"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3985947,
+      "address": "e7f42f83-c884-4095-94fb-51a5d82c66c5"
+    }
+  ]
+}
