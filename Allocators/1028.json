@@ -19,7 +19,9 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": ["common_ui"],
+    "tooling": [
+      "common_ui"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
@@ -28,7 +30,9 @@
       "Other (specified elsewhere)"
     ],
     "12m_requested": 150,
-    "github_handles": ["sxxfuture-official"],
+    "github_handles": [
+      "sxxfuture-official"
+    ],
     "allocation_bookkeeping": "https://github.com/sxxfuture-official/filplus-allocator-sxxfuture"
   },
   "poc": {
@@ -38,8 +42,8 @@
   "pathway_addresses": {
     "msig": "f2pwkfr26r7h6db5laiwapjrs6f32sxkq2t65b75i",
     "signer": [
-      "f1ejbgr4xhnhs554gromyennhsepgbpa7f4esigpy",
-      "f13r7vha3bwdmupibamyr34sg653abb3ayfre2apq"
+      "f13r7vha3bwdmupibamyr34sg653abb3ayfre2apq",
+      "f1ejbgr4xhnhs554gromyennhsepgbpa7f4esigpy"
     ]
   }
 }
