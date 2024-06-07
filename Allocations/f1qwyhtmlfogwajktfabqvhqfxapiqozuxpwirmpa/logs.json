@@ -1,0 +1,26 @@
+{
+  "3045127": [
+    {
+      "timestamp_log": 1717790015950,
+      "type": "allocation",
+      "id": 65539591,
+      "provider": 1697248,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202083b95d6e8a6ab3e62e81286e0b1818b3374f7def3fd9dc3f09d1527d9679bf00"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1526400,
+      "term-max": 1785600,
+      "expiration": 3994745,
+      "address": "f1qwyhtmlfogwajktfabqvhqfxapiqozuxpwirmpa"
+    },
+    {
+      "timestamp_log": 1717790015950,
+      "id": 83128345,
+      "type": "deal-published",
+      "provider": 1697248,
+      "address": "f1qwyhtmlfogwajktfabqvhqfxapiqozuxpwirmpa"
+    }
+  ]
+}
