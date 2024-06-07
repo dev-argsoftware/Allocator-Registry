@@ -1,0 +1,19 @@
+{
+  "3096060": [
+    {
+      "timestamp_log": 1717782526789,
+      "type": "allocation",
+      "id": 65531302,
+      "provider": 3096478,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020468c989e126563bdb0bced5b6bf5db78167ff29342e0f5b4fe8a4736af55d635"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1051200,
+      "term-max": 1310400,
+      "expiration": 3996928,
+      "address": "f142hk7hprfjdvug63u5qtvchco4ttdk5klooczji"
+    }
+  ]
+}
