@@ -6,6 +6,13 @@
       "type": "claim",
       "provider": 1114587,
       "address": "f1udumyw3yjzxuu5co4rateaq6czubrwbyy2t4jiq"
+    },
+    {
+      "timestamp_log": 1717782472964,
+      "id": 65223943,
+      "type": "claim",
+      "provider": 1114587,
+      "address": "f1udumyw3yjzxuu5co4rateaq6czubrwbyy2t4jiq"
     }
   ]
 }
