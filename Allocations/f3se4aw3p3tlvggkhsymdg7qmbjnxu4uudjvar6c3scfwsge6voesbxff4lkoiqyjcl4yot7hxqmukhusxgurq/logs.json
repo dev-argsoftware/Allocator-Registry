@@ -1,0 +1,18 @@
+{
+  "2759235": [
+    {
+      "timestamp_log": 1717783088410,
+      "id": 65526593,
+      "type": "claim",
+      "provider": 8403,
+      "address": "f3se4aw3p3tlvggkhsymdg7qmbjnxu4uudjvar6c3scfwsge6voesbxff4lkoiqyjcl4yot7hxqmukhusxgurq"
+    },
+    {
+      "timestamp_log": 1717783088410,
+      "id": 83115347,
+      "type": "deal-activated",
+      "provider": 8403,
+      "address": "f3se4aw3p3tlvggkhsymdg7qmbjnxu4uudjvar6c3scfwsge6voesbxff4lkoiqyjcl4yot7hxqmukhusxgurq"
+    }
+  ]
+}
