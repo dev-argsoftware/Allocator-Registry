@@ -1,0 +1,19 @@
+{
+  "3085699": [
+    {
+      "timestamp_log": 1717782303274,
+      "type": "allocation",
+      "id": 65530940,
+      "provider": 3090976,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020ab9a46713666345d1f68e19b227714d92f50fb00d8cfdee808b6f48c50b50436"
+      },
+      "piece-size": 34359738368,
+      "term-min": 518400,
+      "term-max": 777600,
+      "expiration": 3996896,
+      "address": "f1dhjmvrgazw2njbov6qprzyh7aawhaponpsxmwbi"
+    }
+  ]
+}
