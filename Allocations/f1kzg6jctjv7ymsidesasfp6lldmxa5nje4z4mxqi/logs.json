@@ -14,6 +14,21 @@
       "term-max": 835200,
       "expiration": 4008203,
       "address": "f1kzg6jctjv7ymsidesasfp6lldmxa5nje4z4mxqi"
+    },
+    {
+      "timestamp_log": 1717782580066,
+      "type": "allocation",
+      "id": 65531310,
+      "provider": 2951213,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e2039220204667ada2bade96d4cdda8d0e498b7ac921b596c29cae53016487c7def9f39d30"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 4007577,
+      "address": "f1kzg6jctjv7ymsidesasfp6lldmxa5nje4z4mxqi"
     }
   ]
 }
