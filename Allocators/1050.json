@@ -18,13 +18,17 @@
     ],
     "required_sps": "4+",
     "required_replicas": "4+",
-    "tooling": ["common_ui"],
+    "tooling": [
+      "common_ui"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise"
     ],
     "12m_requested": 100,
-    "github_handles": ["hash889900"],
+    "github_handles": [
+      "hash889900"
+    ],
     "allocation_bookkeeping": "https://github.com/hash889900/HashTeam"
   },
   "poc": {
