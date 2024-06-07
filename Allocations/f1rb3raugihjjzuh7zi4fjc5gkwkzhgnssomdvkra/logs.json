@@ -1,0 +1,19 @@
+{
+  "3070890": [
+    {
+      "timestamp_log": 1717782283984,
+      "type": "allocation",
+      "id": 65530855,
+      "provider": 3091738,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020ed4c94627b5c16e2ae64db58f7f0a32eef6d7c6c470eb9f201f195da2f83d71c"
+      },
+      "piece-size": 34359738368,
+      "term-min": 996480,
+      "term-max": 1255680,
+      "expiration": 4018130,
+      "address": "f1rb3raugihjjzuh7zi4fjc5gkwkzhgnssomdvkra"
+    }
+  ]
+}
