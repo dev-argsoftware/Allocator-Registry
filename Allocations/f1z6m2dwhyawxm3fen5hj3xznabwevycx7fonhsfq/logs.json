@@ -440,6 +440,62 @@
       "type": "deal-terminated",
       "provider": 1836766,
       "address": "f1z6m2dwhyawxm3fen5hj3xznabwevycx7fonhsfq"
+    },
+    {
+      "timestamp_log": 1718007429601,
+      "id": 37947195,
+      "type": "deal-terminated",
+      "provider": 1923787,
+      "address": "f1z6m2dwhyawxm3fen5hj3xznabwevycx7fonhsfq"
+    },
+    {
+      "timestamp_log": 1718007429601,
+      "id": 37947192,
+      "type": "deal-terminated",
+      "provider": 1923787,
+      "address": "f1z6m2dwhyawxm3fen5hj3xznabwevycx7fonhsfq"
+    },
+    {
+      "timestamp_log": 1718007429601,
+      "id": 37947718,
+      "type": "deal-terminated",
+      "provider": 1923787,
+      "address": "f1z6m2dwhyawxm3fen5hj3xznabwevycx7fonhsfq"
+    },
+    {
+      "timestamp_log": 1718007429601,
+      "id": 37947716,
+      "type": "deal-terminated",
+      "provider": 1923787,
+      "address": "f1z6m2dwhyawxm3fen5hj3xznabwevycx7fonhsfq"
+    },
+    {
+      "timestamp_log": 1718007429601,
+      "id": 37947709,
+      "type": "deal-terminated",
+      "provider": 1923787,
+      "address": "f1z6m2dwhyawxm3fen5hj3xznabwevycx7fonhsfq"
+    },
+    {
+      "timestamp_log": 1718007429601,
+      "id": 37947725,
+      "type": "deal-terminated",
+      "provider": 1923787,
+      "address": "f1z6m2dwhyawxm3fen5hj3xznabwevycx7fonhsfq"
+    },
+    {
+      "timestamp_log": 1718007429601,
+      "id": 37947735,
+      "type": "deal-terminated",
+      "provider": 1923787,
+      "address": "f1z6m2dwhyawxm3fen5hj3xznabwevycx7fonhsfq"
+    },
+    {
+      "timestamp_log": 1718007429601,
+      "id": 37948178,
+      "type": "deal-terminated",
+      "provider": 1923787,
+      "address": "f1z6m2dwhyawxm3fen5hj3xznabwevycx7fonhsfq"
     }
   ]
 }
