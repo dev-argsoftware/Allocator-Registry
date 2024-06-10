@@ -131,6 +131,28 @@
       "type": "deal-published",
       "provider": 126478,
       "address": "f142hk7hprfjdvug63u5qtvchco4ttdk5klooczji"
+    },
+    {
+      "timestamp_log": 1718007427490,
+      "type": "allocation",
+      "id": 65756966,
+      "provider": 126478,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020f6d87d84c5cdc8d000ddc686528c36b475802a4cdbdfce1a40a3112755cf0c1f"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1440000,
+      "term-max": 1699200,
+      "expiration": 4004428,
+      "address": "f142hk7hprfjdvug63u5qtvchco4ttdk5klooczji"
+    },
+    {
+      "timestamp_log": 1718007427490,
+      "id": 83345720,
+      "type": "deal-published",
+      "provider": 126478,
+      "address": "f142hk7hprfjdvug63u5qtvchco4ttdk5klooczji"
     }
   ]
 }
