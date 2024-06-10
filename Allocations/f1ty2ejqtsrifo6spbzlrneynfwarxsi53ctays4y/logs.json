@@ -115,6 +115,34 @@
       "type": "deal-activated",
       "provider": 1222595,
       "address": "f1ty2ejqtsrifo6spbzlrneynfwarxsi53ctays4y"
+    },
+    {
+      "timestamp_log": 1718007215225,
+      "id": 65755379,
+      "type": "claim",
+      "provider": 1222595,
+      "address": "f1ty2ejqtsrifo6spbzlrneynfwarxsi53ctays4y"
+    },
+    {
+      "timestamp_log": 1718007215225,
+      "id": 65755380,
+      "type": "claim",
+      "provider": 1222595,
+      "address": "f1ty2ejqtsrifo6spbzlrneynfwarxsi53ctays4y"
+    },
+    {
+      "timestamp_log": 1718007215225,
+      "id": 83344133,
+      "type": "deal-activated",
+      "provider": 1222595,
+      "address": "f1ty2ejqtsrifo6spbzlrneynfwarxsi53ctays4y"
+    },
+    {
+      "timestamp_log": 1718007215225,
+      "id": 83344134,
+      "type": "deal-activated",
+      "provider": 1222595,
+      "address": "f1ty2ejqtsrifo6spbzlrneynfwarxsi53ctays4y"
     }
   ]
 }
